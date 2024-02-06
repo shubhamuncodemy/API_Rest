@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-28T10:29:41 IST" name="Default suite" finished-at="2024-01-28T10:29:45 IST" duration-ms="4153">
+    <groups>
+    </groups>
+    <test started-at="2024-01-28T10:29:41 IST" name="Default test" finished-at="2024-01-28T10:29:45 IST" duration-ms="4153">
+      <class name="rest_day1.UploadData">
+        <test-method signature="dataUploadFile()[pri:0, instance:rest_day1.UploadData@2fb3536e]" started-at="2024-01-28T10:29:41 IST" name="dataUploadFile" finished-at="2024-01-28T10:29:45 IST" duration-ms="4069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataUploadFile -->
+      </class> <!-- rest_day1.UploadData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
