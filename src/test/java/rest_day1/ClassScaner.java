@@ -14,7 +14,7 @@ public class ClassScaner {
 		int num_1 = object.nextInt();
 		int num_2 = object.nextInt();
 		
-		int sum = num_1+num_2;
+		int sum = num_1+num_3;
 		
 		
 		
